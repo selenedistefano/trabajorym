@@ -1,0 +1,53 @@
+/* .card,
+.card-open {
+    background-color: #223142;
+    height: auto;
+    margin: 8px;
+    padding: 8px;
+    border-radius: 2%;
+} */
+
+.tarjeta {
+    background-color: #223142;
+    white-space: normal;
+    max-width: fit-content; 
+    
+}
+
+.nombrePersonaje {
+    color: #6ECCAF;
+    font-size: x-large;
+    margin-top: 5%;
+}
+
+.botonKnowMore {
+    color: #223142;
+    background-color: #6ECCAF;
+    border: none;
+    border-radius: 6%;
+    margin-bottom: 2px;
+}
+
+.btn-list {
+    color: #223142;
+    background-color: #6ECCAF;
+}
+
+.contenedor-item {
+    color: white;
+    background-color: #223142;
+}
+
+.contenedor-item:hover {
+    background-color: #6ECCAF;
+    color: #344D67;
+}
+
+.flex-column {
+    flex-direction: column !important;
+}
+
+.d-flex {
+    display: flex !important;
+
+}

@@ -1,0 +1,35 @@
+.container{
+    background-color: #ffffffe6;
+    justify-content: center;
+    width: 50%;
+
+}
+
+.row{
+    text-align: center;
+    justify-content: center;
+    margin: 3%;
+    color: #344D67;
+}
+
+p{
+    font-weight: 500;
+}
+
+.boton{
+    padding: 5%;
+    color: #6ECCAF;
+}
+
+.letsgo{
+    font-size: 30px;
+}
+
+.characters{
+    background-color: #344D67;
+    color:#6ECCAF;
+}
+
+.contact{
+    background-color: #344D67;
+}
